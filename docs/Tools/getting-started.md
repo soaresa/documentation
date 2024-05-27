@@ -54,5 +54,5 @@ sudo cp -f ~/libra-framework/target/release/libra* ~/.cargo/bin/
 source ~/.bashrc
 
 # Check libra execution and version 
-libra -v
+libra version
 ```
