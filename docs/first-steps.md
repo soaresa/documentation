@@ -62,7 +62,7 @@ Well done! 👏 You now have a fully operational node running the 0L Libra frame
 To check the balance of an account, use:
 
 ```bash
-libra query balance --account ADDRESS
+libra query balance <ADDRESS>
 ```
 
 ### Check Your Vouches
